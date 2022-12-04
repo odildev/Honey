@@ -8,6 +8,11 @@ body {
     font-family: 'Kodchasan', sans-serif;
 }
 
+html,
+body {
+    scroll-behavior: smooth;
+}
+
 .container {
     max-width: 1157px;
     margin: 0 auto;
